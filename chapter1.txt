@@ -3,3 +3,11 @@ shubhang
 
 Hello shubhang welcome to my repo
 its my pleasure
+
+Today's recap:
+
+git clone "repo link": to get a repository from the git hub to your system
+git add . : to add your changes to a folder to send to git hub
+git commit -m "message" : to save and add message to your commit
+git push : to upload your changes to github account
+git pull: to get source code from the github account
